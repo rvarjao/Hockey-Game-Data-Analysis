@@ -27,11 +27,16 @@ Welcome to my submission for the Sportlogiq Data Analyst Questionnaire. This pro
 4. **Problem Solving**: Addressed specific questions related to the data, demonstrating my analytical approach and decision-making process.
 5. **Power BI Dashboard**: Created an additional Power BI file to provide interactive visualizations and insights from the data.
 
+
+
 ## Repository Contents
 - **notebooks/**: Jupyter notebooks containing the analysis and visualizations.
 - **data/**: Contains the event data, xG data, and rink template.
 - **images/**: Visualizations generated during the analysis.
 - **powerbi/**: Contains the Power BI file with interactive dashboards.
+
+
+![PowerBI Dashboard](Hockey-PowerBI.png)
 
 ## How to Use
 1. Clone the repository: [git clone https://github.com/yourusername/sportlogiq-questionnaire.git](https://github.com/rvarjao/Hockey-Game-Data-Analysis.git)
